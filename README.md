@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi Techclass 👋, Teemu here!
+
+- 🌱 I’m currently learning Git
 
 <!--
 **okajex/okajex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
