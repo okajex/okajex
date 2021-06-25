@@ -1,4 +1,4 @@
-### Hi Techclass 👋, Teemu here!
+### Hi Techclass!
 
 - 🌱 I’m currently learning Git
 
